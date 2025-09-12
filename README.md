@@ -3,7 +3,10 @@
 **Web GIS Developer & Geospatial Engineer | Python · Django · PostGIS**
 
 🌱 Open to collaborations and consulting on Web GIS and spatial data projects.  
-📫 Reach me: https://keyhangis.github.io · https://t.me/KeyhanGIS · LinkedIn (on profile)
+📫 Reach me:  
+[![Portfolio](https://img.shields.io/badge/Website-keyhangis.github.io-blue?style=flat&logo=About.me)](https://keyhangis.github.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keyhan-khosravifard)  
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-informational?style=flat&logo=telegram)](https://t.me/KeyhanGIS)  
 
 ---
 
@@ -11,43 +14,35 @@
 
 - Geospatial engineer with practical experience delivering multiple Web GIS applications using open-source technologies.  
 - Skilled in **Python, Django, PostGIS, GeoServer, Leaflet, JavaScript**.  
-- Focused on solving spatial problems, preparing and managing geospatial data, and creating interactive map interfaces.
+- Focused on solving spatial problems, preparing and managing geospatial data, and creating interactive map interfaces.  
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:** Python · JavaScript 
+**Languages:** Python · JavaScript  
 **Frameworks / Tools:** Django · Leaflet.js · GeoServer · PostGIS · Git  
 **Data Tools:** QGIS · GDAL · GeoJSON · Shapefiles  
-**Other:** HTML/CSS · REST APIs
+**Other:** HTML/CSS · REST APIs  
 
 ---
 
-### Personal Portfolio (keyhangis.github.io)
-My portfolio website showcasing projects, skills, and contact details.
+### [Personal Portfolio](https://keyhangis.github.io)  
+Explore my Web GIS projects, case studies, and resume in detail.  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyhanGIS&show_icons=true&count_private=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyhanGIS&layout=compact&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyhanGIS&show_icons=true&count_private=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyhanGIS&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📣 Repository Guidelines
 
 - Every project should have a clear `README.md`: setup, local run instructions, demo (if available), and usage examples.  
-- Include a `LICENSE` (MIT preferred), `CONTRIBUTING.md`, and an `ISSUE_TEMPLATE` for easier collaboration.
-
----
-
-## 📫 Contact
-
-- Portfolio/Resume: https://keyhangis.github.io  
-- Telegram: https://t.me/KeyhanGIS  
-- LinkedIn: see profile
+- Include a `LICENSE` (MIT preferred), `CONTRIBUTING.md`, and an `ISSUE_TEMPLATE` for easier collaboration.  
 
 ---
 
