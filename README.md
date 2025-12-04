@@ -5,7 +5,7 @@
 🌱 Open to collaborations and consulting on Web GIS and spatial data projects.  
 📫 Reach me:  
 [![Portfolio](https://img.shields.io/badge/Website-keyhangis.github.io-blue?style=flat&logo=About.me)](https://keyhangis.github.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keyhan-khosravifard)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keyhangis)  
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-informational?style=flat&logo=telegram)](https://t.me/KeyhanGIS)  
 
 ---
